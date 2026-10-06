@@ -1,0 +1,11 @@
+age,job,marital,education,default,balance,housing,loan,pdays,previous,poutcome,predicted_subscription,predicted_probability_yes
+40,blue-collar,married,primary,no,640,yes,yes,-1,0,unknown,no,0.18505874278120918
+44,technician,married,secondary,no,378,yes,no,-1,0,unknown,no,0.295732177498602
+31,services,married,secondary,no,356,yes,no,-1,0,unknown,no,0.29003324154229176
+36,blue-collar,married,primary,no,655,yes,no,-1,0,unknown,no,0.2523887566243388
+34,services,single,secondary,no,1921,yes,no,-1,0,unknown,no,0.38655683993491646
+41,management,single,secondary,no,1138,no,no,-1,0,unknown,yes,0.5676054388113939
+43,entrepreneur,married,tertiary,no,2589,no,no,-1,0,unknown,no,0.498644417317603
+64,retired,divorced,primary,no,109,no,no,225,2,success,yes,0.9632342572546528
+35,admin.,divorced,secondary,no,1803,no,no,-1,0,unknown,yes,0.5677865379622388
+44,services,divorced,tertiary,no,2279,no,yes,146,1,failure,yes,0.5471258680651343
